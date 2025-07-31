@@ -1,24 +1,5 @@
 # 🧠 Mushroom Resource Management System (FungiFlow)
 
-## 📌 Module: SE2032 – Database Management Systems  
-**Group Report Submission — Year 2, Semester 1**  
-**Institution**: Sri Lanka Institute of Information Technology (SLIIT)  
-**Submitted on**: May 02, 2025  
-**Team ID**: Group 01
-
----
-
-## 👥 Team Members
-
-| Student ID     | Name              | Role / Module                          |
-|----------------|-------------------|----------------------------------------|
-| IT23651456     | Sandali J.S       | Lab Management                         |
-| IT23592674     | A G S Nethma      | Inventory Management                   |
-| IT23645684     | V N Jayasinghe    | Sales Management                       |
-| IT23632028     | L G A I De Silva  | Admin Dashboard & Analytics            |
-
----
-
 ## 📖 Project Overview
 
 This project implements an integrated SQL-based **Mushroom Resource Management System** for the **Mushroom Development and Training Centre (MTDC)**. It includes:
@@ -207,6 +188,24 @@ Each module includes practical SQL operations such as:
 - Automated alerts via email or mobile notifications  
 - Integration with mobile POS systems  
 - Live performance dashboards with charts
+
+---
+## 📌 Module: SE2032 – Database Management Systems  
+**Group Report Submission — Year 2, Semester 1**  
+**Institution**: Sri Lanka Institute of Information Technology (SLIIT)  
+**Submitted on**: May 02, 2025  
+**Team ID**: Group 01
+
+---
+
+## 👥 Team Members
+
+| Student ID     | Name              | Role / Module                          |
+|----------------|-------------------|----------------------------------------|
+| IT23651456     | Sandali J.S       | Lab Management                         |
+| IT23592674     | A G S Nethma      | Inventory Management                   |
+| IT23645684     | V N Jayasinghe    | Sales Management                       |
+| IT23632028     | L G A I De Silva  | Admin Dashboard & Analytics            |
 
 ---
 
